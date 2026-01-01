@@ -44,7 +44,8 @@ This project is a **Menu-Driven Scientific Calculator** developed in C language.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/ayushkumardubey-art/Mini-Project.git
+    git clone https://github.com/ayushkumardubey-art/ayush-RU-25-11741.git
+
 
     ```
 2.  **Compile the code:**
